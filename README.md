@@ -5,7 +5,7 @@ This is web based agriculture application has been developed for the accomplishm
 
 
 ** Project link ** -https://victorious-coast-08788e600.2.azurestaticapps.net/
-** Project demo video link ** -
+** Project demo video link ** -https://youtu.be/578tB5G7IGM
 
 ## Azure Technologies used for project 
 - Static web apps
