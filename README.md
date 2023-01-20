@@ -9,7 +9,7 @@ This is web based agriculture application has been developed for the accomplishm
 
 ## Azure Technologies used for project 
 - Static web apps
-- Azure Bot
+- HealthBot
 
 
 ## Futures and Functionalities
