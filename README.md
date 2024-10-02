@@ -1,15 +1,13 @@
-# Project842
-# GREENSWARD  
+# Assignment-4
+# LIFEWITHGREEN 
 
-This is web based agriculture application has been developed for the accomplishment of Future Ready Talent Internship Programme launched by Microsoft, Future Skills Prime,Quess, Github and EY.
+This is web based agriculture application has been developed for the accomplishment of Innomatics Internship launched by Innomatics Research lab, Github and EY.
 
 
-** Project link ** -https://victorious-coast-08788e600.2.azurestaticapps.net/
-** Project demo video link ** -https://youtu.be/578tB5G7IGM
 
-## Azure Technologies used for project 
+## Technologies used for project 
 - Static web apps
-- HealthBot
+  
 
 
 ## Futures and Functionalities
@@ -54,7 +52,7 @@ This is web based agriculture application has been developed for the accomplishm
 
 
 ## Tech Stack
--[Azure(Hosting)]
+-[Innomatics]
 -HTML
 -CSS
 -Bootstrap
